@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "labar/1.0.0": {
+        "runtime": {
+          "labar.dll": {}
+        },
+        "resources": {
+          "hsb-DE/labar.resources.dll": {
+            "locale": "hsb-DE"
+          },
+          "hsb/labar.resources.dll": {
+            "locale": "hsb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "labar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
